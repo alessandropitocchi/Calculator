@@ -79,3 +79,12 @@ body{
 .operator:hover{
     background-color: #ffa500;
 }
+
+.pointBtn{
+    font-weight: bold;
+    background-color: #ffb833;
+}
+
+.pointBtn:hover{
+    background-color: #ffa500;
+}
